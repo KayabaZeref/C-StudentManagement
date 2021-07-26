@@ -1,0 +1,5 @@
+
+Code: 5 
+Name: l 
+Birth: 2 
+Learning Points: 6.00
